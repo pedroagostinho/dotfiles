@@ -1,16 +1,26 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ayu",
+		"Babel",
+		"Color Highlight",
+		"Emmet",
+		"ERB Snippets",
+		"ESLint",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PackageResourceViewer",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop"
+	]
 }
